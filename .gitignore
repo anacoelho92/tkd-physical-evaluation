@@ -1,0 +1,6 @@
+data/
+notebooks/__pycache__
+notebooks/gerar_tce_meio_epoca.py
+notebooks/dashboard_avaliacoes_fisicas.py
+notebooks/analise_avaliacoes_fisicas.ipynb
+.DS_Store
